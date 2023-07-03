@@ -1,4 +1,4 @@
-export const host = "https://chat-backend-sigma-seven.vercel.app";
+export const host = "https://chatapp-sm0s.onrender.com/";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const setAvatarRoute = `${host}/api/auth/setAvatar`;
